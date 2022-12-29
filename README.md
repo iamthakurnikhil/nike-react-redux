@@ -1,42 +1,16 @@
 # nike-react-redux
 
-
-# Rick-Morty-WIkI
-
-This project is made up from popular show rick and morty a by React JS and tailwind CSS  with functionality of pagination.
+This project is made up from React and tailwind with redux toolkit for cart component.
 
 ## Live Demo
 
-[Rick and Morty Live](https://rick-morty-iamthakurnikhil.netlify.app/)
+[Nike Demo](https://nike-react-redux.vercel.app/)
 
 
 ## Screenshots
 
-![App Screenshot](./src/assests/Screenshot%20(11).png)
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/iamthakurnikhil/rick-and-morty.git
-```
-
-Go to the project directory
-
-```bash
-  cd rick-and-morty
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm start
-```
+![App Screenshot](./src/assests/Screenshot%20(15).png)
+![App Screenshot](./src/assests/Screenshot%20(16).png)
+![App Screenshot](./src/assests/Screenshot%20(17).png)
+![App Screenshot](./src/assests/Screenshot%20(18).png)
+![App Screenshot](./src/assests/Screenshot%20(19).png)

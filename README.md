@@ -9,8 +9,8 @@ This project is made up from React and tailwind with redux toolkit for cart comp
 
 ## Screenshots
 
-![App Screenshot](./src/assests/Screenshot%20(15).png)
-![App Screenshot](./src/assests/Screenshot%20(16).png)
-![App Screenshot](./src/assests/Screenshot%20(17).png)
-![App Screenshot](./src/assests/Screenshot%20(18).png)
-![App Screenshot](./src/assests/Screenshot%20(19).png)
+![App Screenshot](./src/assets/Screenshot%20(15).png)
+![App Screenshot](./src/assets/Screenshot%20(16).png)
+![App Screenshot](./src/assets/Screenshot%20(17).png)
+![App Screenshot](./src/assets/Screenshot%20(18).png)
+![App Screenshot](./src/assets/Screenshot%20(19).png)
